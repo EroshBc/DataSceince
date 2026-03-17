@@ -10,3 +10,5 @@ Setup CNN model and trained Training and validation accuracy is 99% using matplo
 Code with Generative AI. Evaluate the model on test data accuracy is 0.05% and accuracy is 98.6%
 Use the trained model to predict the character that appears in a new video frame number range and the time in seconds.
 
+![Dashboard](./pic1.png)
+![Dashboard](./pic2.png)
